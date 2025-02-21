@@ -1,1 +1,0 @@
-# natanz-gke-deployment
